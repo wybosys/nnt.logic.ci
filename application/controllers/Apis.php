@@ -5,6 +5,6 @@ class Apis extends CI_Controller {
 
     function index()
     {
-        echo "nnt.logic";
+        echo "nnt.logic.ci";
     }
 }
